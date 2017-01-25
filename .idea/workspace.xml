@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9731529-fe9d-4881-8726-b69b3a53bbe0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson4/Lesson4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson4/Test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson4/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson5/Lesson5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lesson5/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,14 +52,14 @@
       <file leaf-file-name="Lesson4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson4/Lesson4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson4/Test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
@@ -70,21 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sys.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247971765/sys.py">
+      <file leaf-file-name="Lesson5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson5/Lesson5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247971765/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="1120" column="13" lean-forward="false" selection-start-line="1120" selection-start-column="13" selection-end-line="1120" selection-end-column="13" />
+            <state relative-caret-position="552">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -110,6 +99,7 @@
         <option value="$PROJECT_DIR$/Lesson3/Func.py" />
         <option value="$PROJECT_DIR$/Lesson4/Lesson4.py" />
         <option value="$PROJECT_DIR$/Lesson4/Test.py" />
+        <option value="$PROJECT_DIR$/Lesson5/Lesson5.py" />
       </list>
     </option>
   </component>
@@ -165,34 +155,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PythonStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -200,24 +162,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
-  <component name="RunManager" selected="Python.Test">
-    <configuration default="false" name="Lesson1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonStudy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson1/Lesson1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Lesson5">
     <configuration default="false" name="Lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,6 +227,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonStudy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson4/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Lesson5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonStudy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson5/Lesson5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -421,19 +383,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Lesson1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Lesson2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Func" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Lesson4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Lesson2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Func" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Lesson4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Lesson5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Lesson4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Func" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Lesson2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Lesson1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Lesson5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Lesson4" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Func" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Lesson2" />
       </list>
     </recent_temporary>
   </component>
@@ -513,18 +475,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247971765/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1120" column="13" lean-forward="false" selection-start-line="1120" selection-start-column="13" selection-end-line="1120" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson3/Func.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson4/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson4/Lesson4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1247971765/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="726" column="6" lean-forward="false" selection-start-line="726" selection-start-column="6" selection-end-line="726" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -537,18 +515,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson4/Lesson4.py">
+    <entry file="file://$PROJECT_DIR$/Lesson5/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson4/Test.py">
+    <entry file="file://$PROJECT_DIR$/Lesson5/Lesson5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="552">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding />
         </state>
       </provider>
