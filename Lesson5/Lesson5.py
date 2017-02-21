@@ -17,11 +17,22 @@ class Module(object):
         print('age is :%s' % self.age)
 
 
+class Permission(Module):
+    def __init__(self, gentle):
+        self.name = None
+        self.age = None
+        self.__gentle = gentle
+
+    def print_gentle(self):
+        print('gentle:%s' % self.__gentle)
+
+
 if __name__ == '__main__':
     module = Module('Chinese', 50)
     m = Module('Franch', 50)
-    m.good = 9
-    m.good
-    module.good
+
+    permission = Permission('man')
+    permission.print_age()
+    permission.print_gentle()
 
     # print("创建对象:" + module.__class__)
